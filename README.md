@@ -11,3 +11,5 @@ pnpm dev
 # or
 bun dev
 ```
+
+The server for this app can be found in: https://github.com/JorgeLuisValenzuelaBustos/listApp-Server
